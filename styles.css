@@ -58,28 +58,28 @@ h1, h2, h3, h4, p {
     height: 400px;
     border: 6px solid white;
     border-radius: 10px;
-    background-image: url("images/gift-cover.jpg");
+    background-image: url("gift-cover.jpg");
     background-size: cover;
 }
 
 #gift-img-minions:hover {
-    background-image: url("images/minions.gif");
+    background-image: url("minions.gif");
 }
 
 #gift-img-suprised:hover {
-    background-image: url("images/suprisedgif");
+    background-image: url("suprisedgif");
 }
 
 #gift-img-accomplished:hover {
-    background-image: url("images/accomplished.gif");
+    background-image: url("accomplished.gif");
 }
 
 #gift-img-IMG-20230705-WA0012:hover {
-    background-image: url("images/IMG-20230705-WA0012.jpg");
+    background-image: url("IMG-20230705-WA0012.jpg");
 }
 
 #gift-img-gezuar:hover {
-    background-image: url("images/gezuar.gif");
+    background-image: url("gezuar.gif");
 }
 
 
